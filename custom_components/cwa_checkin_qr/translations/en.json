@@ -1,0 +1,18 @@
+{
+  "title": "Corona Warn-App Check-in QR code",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Corona Warn-App Check-in QR code",
+        "data": {
+          "location_description": "Location description",
+          "address": "Address",
+          "location_type": "Location type",
+          "start_date_time": "Start date/time",
+          "end_date_time": "End date/time",
+          "default_duration": "Default check-in duration in minutes"
+        }
+      }
+    }
+  }
+}

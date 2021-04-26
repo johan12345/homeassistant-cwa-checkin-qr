@@ -5,5 +5,8 @@
   "documentation": "https://github.com/johan12345/homeassistant-cwa-checkin-qr",
   "domain": "cwa_checkin_qr",
   "name": "Corona Warn-App check-in QR code",
-  "requirements": []
+  "requirements": [
+    "cwa-qr==1.0"
+  ],
+  "version": "0.0.1"
 }

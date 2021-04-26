@@ -2,3 +2,17 @@ env
 __pycache__/
 *.py[cod]
 .idea
+
+# Home assistant config
+.storage
+blueprints
+.HA_VERSION
+2021.1
+automations.yaml
+configuration.yaml
+groups.yaml
+home-assistant.log
+home-assistant_v2.db
+scenes.yaml
+scripts.yaml
+secrets.yaml
